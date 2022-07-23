@@ -1,0 +1,39 @@
+/* logo */
+.logo{
+    font-size: 3rem;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: left;
+    font-size: 2rem;
+}
+
+.logout{
+    margin-left: auto;
+    font-size: 2rem;
+}
+
+.header{
+    height: 100px;
+}
+
+.content{
+    margin-top: 200px;
+    overflow: scroll;
+    font-size: 2rem;
+    margin-bottom: 100px;
+}
+
+.product-info{
+    font-size: 1.5rem;
+}
+
+.product-align-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
